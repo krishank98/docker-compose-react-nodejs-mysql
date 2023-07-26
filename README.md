@@ -1,6 +1,6 @@
 # Docker Compose React, Nodejs and MySQL example
 
-## Run the System
+## Run the System..
 We can easily run the whole with only a single command:
 ```bash
 docker-compose up
